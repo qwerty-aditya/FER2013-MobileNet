@@ -4,3 +4,4 @@ Mobile net V2 model pretrained on the imagenet dataset was used.
 ### Accuracy and Loss graph
 ![Accuracy VS Loss](/AccuLoss.png)
 ### Confusion Matrix
+![Accuracy VS Loss](/Confusion Matrix.png)
